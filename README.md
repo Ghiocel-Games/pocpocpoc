@@ -5,6 +5,7 @@
 ##Patch notes:
 
 ***[+]*** Made enemies die preperly (that sounds so evil xD)
+
 ***[+]*** Added sounds
 
 ***[+]*** Remade enemy movement
