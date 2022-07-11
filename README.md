@@ -4,6 +4,8 @@
   
 ##Patch notes:
 
+***[+]*** made cool design and a progress bar and it looks amazing
+
 ***[+]*** made enemy movement
 
 ***[+]*** Made enemies die preperly (that sounds so evil xD)
