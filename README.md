@@ -2,7 +2,9 @@
 
   A new modern arcade-type game. Set to release next month on all major platforms. You’re a cube shooting other cubes and avoiding lasers, gameplay gets more and more intense with time, as you shoot faster and the enemies get stronger. An aesthetically pleasant game with both retro and modern components. (trailer coming soon)
   
-##Patch notes:
+***
+
+## Patch notes:
 
 ***[+]*** made cool design and a progress bar and it looks amazing
 
