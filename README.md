@@ -10,7 +10,7 @@
 
 ***[+]*** made enemy movement
 
-***[+]*** Made enemies die preperly (that sounds so evil xD)
+***[+]*** Made enemies die properly (that sounds so evil xD)
 
 ***[+]*** Added sounds
 
