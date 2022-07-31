@@ -6,6 +6,8 @@
 
 ## Patch notes:
 
+***[+]*** Fixed UI bug
+
 ***[+]*** made cool design and a progress bar and it looks amazing
 
 ***[+]*** made enemy movement
@@ -24,8 +26,8 @@
 
 ***[+]*** Added settings
 
-***[─]*** Fixed bug where the player would fall into the void by moving to the right while near the border
+***[+]*** Fixed bug where the player would fall into the void by moving to the right while near the border
 
-***[─]*** Fixed bug that made the enemies spawn wrong
+***[+]*** Fixed bug that made the enemies spawn wrong
 
 > RELEASE DATE  THIS/NEXT WEEK STAY TUNED
